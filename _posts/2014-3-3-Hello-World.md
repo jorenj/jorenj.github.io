@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIMEE" - End effector for semi-automatic pleating of vaccuum bags on large composite parts: MECH Capstone Project.
+title: "VIMEE" End effector for semi-automatic pleating of vaccuum bags on large composite parts: MECH Capstone Project.
 ---
 
 ##Overview
@@ -10,7 +10,7 @@ Although I am an Integrated Engineering student, I had the opportunity to comple
 Our solution, called VIMEE, is an end effector with three main components: a wedge, an actuated composite belt, a roller system attached to an arm with two axes of freedom. The device is able to complete the pleating process in two steps: 1) gathering slack material using the wedge belt and 2) forming a pleat using both the wedge belt and the roller. Following the completion of the Capstone course, our clients at CARIS and DLR both expressed great interest for continuing the development of our prototype. The German Aerospace Center has also indicated their desire to improve and showcase our prototype at their annual conference in September. 
 
 
-![Render of VIMEE]({{ https://keep.google.com/u/0/media/v2/1Cl5CCZEY2Q70vo6r04MtQ_IaP6N30SrrvNPBewz1kwR9oUyhptAjReaS-PUS82M/1RzckDpebU0W4wtwP1W__KRKAvS8bdo8cIAqepuXHZzRuG1rQpRgvt2aIIMxrEg?accept=image/gif,image/jpeg,image/jpg,image/png,image/webp,audio/aac&sz=940 "Render of VIMEE")
+![Render of VIMEE](jorenj.github.io/images/VIMEE/Render_three.png "Render of VIMEE")
 
 ##My Work
 My contributions were focused on three main aspects of the project, although I actively helped with nearly all aspects of the device's design:
