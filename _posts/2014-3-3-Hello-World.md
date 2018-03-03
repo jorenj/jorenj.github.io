@@ -3,16 +3,16 @@ layout: post
 title: "VIMEE" End effector: MECH Capstone Project.
 ---
 
-##Overview
+## Overview
 Although I am an Integrated Engineering student, I had the opportunity to complete my fourth year capstone project through the Mechanical Engineering department when I was invited to join a project being solicited by DLR, the German aerospace agency. DLR and the UBC CARIS Lab were collaborating on automating labour-intensive aspects of manufacturing large composite aircraft and spacecraft parts using the vacuum infusion process. Our team of 5 engineering students was given the task of creating a proof of concept end effector able to automate the process of pleating the vacuum bag and positioning the pleat as desired on large composite parts. In short, we had to make a device to attach to the end of a robot arm capable of making and moving a pleat in plastic sheeting. 
 
-##The Device
+## The Device
 Our solution, called VIMEE, is an end effector with three main components: a wedge, an actuated composite belt, a roller system attached to an arm with two axes of freedom. The device is able to complete the pleating process in two steps: 1) gathering slack material using the wedge belt and 2) forming a pleat using both the wedge belt and the roller. Following the completion of the Capstone course, our clients at CARIS and DLR both expressed great interest for continuing the development of our prototype. The German Aerospace Center has also indicated their desire to improve and showcase our prototype at their annual conference in September. 
 
 
 ![Render of VIMEE](/images/VIMEE/Render_three.png "Render of VIMEE")
 
-##My Work
+## My Work
 My contributions were focused on three main aspects of the project, although I actively helped with nearly all aspects of the device's design:
 1. Process Research and Concept of Operations Specification.
 I conducted extensive research into the vacuum infusion process, and led the team's initial hands-on vacuum infusion simulations where we clarified and quantified the requirements for our device. I also developed the overall 'strategy' our device would use to form and move pleats through testing and practice forming and moving pleats with various shapes, methods, and materials. 
