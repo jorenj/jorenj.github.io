@@ -1,10 +1,22 @@
 ---
 layout: post
-title: You're up and running!
+title: "VIMEE" - End effector for semi-automatic pleating of vaccuum bags on large composite parts: MECH Capstone Project.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+##Overview
+Although I am an Integrated Engineering student, I had the opportunity to complete my fourth year capstone project through the Mechanical Engineering department when I was invited to join a project being solicited by DLR, the German aerospace agency. DLR and the UBC CARIS Lab were collaborating on automating labour-intensive aspects of manufacturing large composite aircraft and spacecraft parts using the vacuum infusion process. Our team of 5 engineering students was given the task of creating a proof of concept end effector able to automate the process of pleating the vacuum bag and positioning the pleat as desired on large composite parts. In short, we had to make a device to attach to the end of a robot arm capable of making and moving a pleat in plastic sheeting. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+##The Device
+Our solution, called VIMEE, is an end effector with three main components: a wedge, an actuated composite belt, a roller system attached to an arm with two axes of freedom. The device is able to complete the pleating process in two steps: 1) gathering slack material using the wedge belt and 2) forming a pleat using both the wedge belt and the roller. Following the completion of the Capstone course, our clients at CARIS and DLR both expressed great interest for continuing the development of our prototype. The German Aerospace Center has also indicated their desire to improve and showcase our prototype at their annual conference in September. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+![Render of VIMEE]({{ https://keep.google.com/u/0/media/v2/1Cl5CCZEY2Q70vo6r04MtQ_IaP6N30SrrvNPBewz1kwR9oUyhptAjReaS-PUS82M/1RzckDpebU0W4wtwP1W__KRKAvS8bdo8cIAqepuXHZzRuG1rQpRgvt2aIIMxrEg?accept=image/gif,image/jpeg,image/jpg,image/png,image/webp,audio/aac&sz=940 "Render of VIMEE")
+
+##My Work
+My contributions were focused on three main aspects of the project, although I actively helped with nearly all aspects of the device's design:
+1. Process Research and Concept of Operations Specification.
+I conducted extensive research into the vacuum infusion process, and led the team's initial hands-on vacuum infusion simulations where we clarified and quantified the requirements for our device. I also developed the overall 'strategy' our device would use to form and move pleats through testing and practice forming and moving pleats with various shapes, methods, and materials. 
+2. Design and Manufacture of the 2-axis actuation arm
+I was wholly responsible for the design of the actuation arm that gave the roller arm 2 axis freedom of motion. 
+3. Editing of Technical Documentation
+I was responsible for final editing and submission of the large quantity of technical documentation required throughout the project. I wrote outlines for all major documents, assigned writing and other documentation work to other team members, and compiled and edited just over 250 pages worth of technical documentation over the course of the project. 
