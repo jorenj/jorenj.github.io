@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIMEE" End effector for semi-automatic pleating of vaccuum bags on large composite parts: MECH Capstone Project.
+title: "VIMEE" End effector: MECH Capstone Project.
 ---
 
 ##Overview
