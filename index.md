@@ -9,7 +9,7 @@ I am passionate about using engineering to make humanity more sustainable and ex
 ### Education
 
 #### Integrated Engineering with a Commerce Minor at UBC. 
-This is an accredited program that gives a strong background in the major engineering disciplines, a strong focus on project management, and flexibility to specialize in one or more classical majors. I focused my class work on **Mechanical and Materials engineering**, specifically **fluid mechanics, mechanical component selection, composite materials and manufacturing, and SPC**. 
+[Integrated Engineering](http://www.igen.ubc.ca/) is an accredited program that gives a strong background in the major engineering disciplines, a strong focus on project management, and flexibility to specialize in one or more classical majors. I focused my class work on **Mechanical and Materials engineering**, specifically **fluid mechanics, mechanical component selection, composite materials and manufacturing, and SPC**. 
 
 This program has given me the confidence to lead teams through engineering challenges in a variety of disciplines - I can speak the languages of electrical, computer, chemical, mechanical, materials, and systems engineers. 
 
