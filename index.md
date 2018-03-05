@@ -9,7 +9,7 @@ permalink: /
 
 I am passionate about using engineering to make humanity more sustainable and exciting, and it is my dream to play a part in this generation's contributions to space exploration. 
 
-I love leading teams, solving complex problems, and working with electromechanical systems & testing, fluid & heat analysis, and composites manufacturing processes.  Last year I started an engineering design team dedicated to the design and launch of suborbital sounding rockets, and I've learned so much from leading and participating with the team including hands on machining and composites skills, how to effectively manage small and large teams, and more.
+I love leading teams, solving complex problems, and working with electromechanical systems and composites manufacturing processes.  Last year I started an engineering design team ([UBC Rocket](www.ubcrocket.com) dedicated to the design and launch of suborbital sounding rockets, and I've learned so much from leading and participating with the team including hands on machining and composites skills, how to effectively manage small and large teams, and more.
 
 I am graduating in May of 2018, and I am actively looking for a job where I can focus my knowledge and experience in a meaningful role. 
 
