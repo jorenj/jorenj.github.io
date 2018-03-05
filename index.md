@@ -16,7 +16,7 @@ I am graduating in May of 2018, and I am actively looking for a job where I can 
 ### Education
 
 #### Integrated Engineering with a Commerce Minor at UBC. 
-[Integrated Engineering](http://www.igen.ubc.ca/) is an accredited program that gives a strong background in the major engineering disciplines, a strong focus on project management, and flexibility to specialize in one or more classical majors. I focused my class work on **Mechanical and Materials engineering**, specifically
+[Integrated Engineering](http://www.igen.ubc.ca/) is an accredited program that gives a strong background in the major engineering disciplines and project management, significant hands on project work, and the flexibility to specialize in one or more classical majors. I focused my class work on **Mechanical and Materials engineering**, specifically
 * **mechanical component selection, manufacturing, and statistical process control**
 * **composite materials and manufacturing**
 * **fluid mechanics**
