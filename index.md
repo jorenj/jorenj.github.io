@@ -1,5 +1,6 @@
 ---
 layout: index-page
+title: Joren Jackson
 permalink: /
 ---
 ## Check out my [projects](/projects), or my [resume](/Resume.pdf).
