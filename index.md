@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Check out my [projects!](/projects.html)
+title: 
 permalink: /
 ---
+## Check out my [projects!](/projects.html)
 
 ## About Me
 
