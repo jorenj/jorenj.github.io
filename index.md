@@ -1,6 +1,6 @@
 ---
 layout: index-page
-title: 
+title: About
 permalink: /
 ---
 ## Check out my [projects](/projects), or my [resume](/Resume.pdf).
