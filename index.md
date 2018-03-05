@@ -1,10 +1,7 @@
 ---
-layout: page
-title: 
+layout: index-page
 permalink: /
 ---
-## Check out my [projects!](/projects.html)
-
 ## About Me
 
 I am passionate about using engineering to make humanity more sustainable and exciting. I love leading teams, solving complex problems, and working with electromechanical systems & testing, fluid & heat analysis, and composites manufacturing processes.  Last year I started an engineering design team dedicated to the design and launch of suborbital sounding rockets, and I've learned so much from leading and participating with the team. I am graduating in May of 2018, and I am actively looking for a job where I can focus my knowledge and experience in a meaningful role. 
