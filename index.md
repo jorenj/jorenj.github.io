@@ -2,7 +2,7 @@
 layout: index-page
 permalink: /
 ---
-## Check out my [projects](/projects), or my [resume](/resume.pdf).
+## Check out my [projects](/projects), or my [resume](/Resume.pdf).
 
 ## About Me
 
@@ -20,7 +20,7 @@ I am passionate about using engineering to make humanity more sustainable and ex
 This program has given me the confidence to lead teams through engineering challenges in a variety of disciplines - I can speak the languages of electrical, computer, chemical, mechanical, materials, and systems engineers. 
 
 ### Experience
-See my [projects page]() for some of my projects, view my [resume](/resume.pdf), or contact me at [joren.jackson@gmail.com](mailto:joren.jackson@gmail.com). 
+See my [projects page]() for some of my projects, view my [resume](/Resume.pdf), or contact me at [joren.jackson@gmail.com](mailto:joren.jackson@gmail.com). 
 
 ### Personal Interests
 I love the outdoors and exploring, whether through sailing, flying, skiing, hiking, or travelling. Pictures from some recent highlights can be found [here.](https://photos.app.goo.gl/8m63LCusYNmAayWr2)
