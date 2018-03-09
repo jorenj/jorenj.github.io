@@ -5,6 +5,8 @@ permalink: /
 ---
 ## Check out my [projects](/projects), or my [resume](/Resume.pdf).
 
+![Asulkan Pass Sunset](/images/cover_me.jpg "Asulkan Pass Sunset")
+
 ## About Me
 
 I am passionate about using engineering to make humanity more sustainable and exciting, and it is my dream to play a part in this generation's contributions to space exploration. 
